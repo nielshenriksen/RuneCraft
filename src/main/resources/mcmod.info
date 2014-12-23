@@ -1,0 +1,17 @@
+[
+{
+    "modid": "RuneCraft",
+    "name": "RuneCraft",
+    "description": "Magical mod for Minecraft focused on runes",
+    "version": "0.1",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["NoggsCraft"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": []
+}
+]

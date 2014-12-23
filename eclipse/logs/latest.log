@@ -1,11 +1,11 @@
-[01:19:37] [main/INFO]: Setting user: Player62
-[01:19:38] [Client thread/INFO]: LWJGL Version: 2.9.1
-[01:19:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RuneCraft
-[01:19:43] [Sound Library Loader/INFO]: Sound engine started
-[01:19:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[01:19:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:19:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RuneCraft
-[01:19:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:19:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[01:19:45] [Sound Library Loader/INFO]: Sound engine started
-[01:19:52] [Client thread/INFO]: Stopping!
+[01:43:08] [main/INFO]: Setting user: Player140
+[01:43:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:43:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RuneCraft
+[01:43:15] [Sound Library Loader/INFO]: Sound engine started
+[01:43:16] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:43:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:43:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RuneCraft
+[01:43:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:43:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:43:18] [Sound Library Loader/INFO]: Sound engine started
+[01:43:46] [Client thread/INFO]: Stopping!
