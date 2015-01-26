@@ -5,6 +5,8 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import eu.noggscraft.runecraft.init.ModItems;
+import eu.noggscraft.runecraft.init.Recipes;
 import eu.noggscraft.runecraft.proxy.IProxy;
 import eu.noggscraft.runecraft.reference.Reference;
 
@@ -19,7 +21,12 @@ public class RuneCraft
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
-    {}
+    {
+
+        ModItems.init();
+
+        Recipes.init();
+    }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
